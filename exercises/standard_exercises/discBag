@@ -1,0 +1,11 @@
+package exercises.standard_exercises;
+
+Disc destroyer = new Disc();
+destroyer.name = "Destroyer";
+destroyer.speed = 12;
+destroyer.weight = 167.1;
+
+Disc teeBird = new Disc();
+teeBird.name = "Teebird";
+teeBird.speed = 7;
+teeBird.weight = 173.2;
